@@ -11,5 +11,4 @@ function checkDigitsInName(name) {
     }
     return false;
 }
-const result = checkDigitsInName(["Raj"]);
-console.log(result);
+

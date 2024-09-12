@@ -5,6 +5,5 @@ function sendNotification(email) {
     let x = email.split("@").join(" sent you an email from ");
     return x;
 }
-const result = sendNotification( "zihad@gmail.com");
-console.log(result);
+
 

@@ -6,6 +6,5 @@ function calculateTax(income, expenses) {
     let tax = difference * .20;
     return tax;
 }
-const result=calculateTax(6000, -1500);
-console.log(result);
+
 
